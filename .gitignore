@@ -1,0 +1,14 @@
+# Ignore system files
+.DS_STORE
+
+# The file containing environment variables 
+.env
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sw*
+
+# Ignore Logs
+logs
+*.log
